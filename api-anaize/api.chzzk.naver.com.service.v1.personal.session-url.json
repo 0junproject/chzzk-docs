@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "message": null,
+  "content": {
+    "code": 200,
+    "result": {
+      "url": "https://ssio27.nchat.naver.com:443?auth=Z5iMYFPk2yle2_Li8WdXAY2z3pOAADBMuREvePSIdCoqViBSEaShqbiWlaLNQ7x8dShvPDAlT3XaT1Q4-29ltfZEf71tBy93HqS_Tm5YVFY",
+      "app": "nng@glive"
+    }
+  }
+}

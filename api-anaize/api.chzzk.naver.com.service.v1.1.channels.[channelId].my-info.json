@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "message": null,
+  "content": {
+    "channelId": "34bca588e940bb3572e67fc4487c8666",
+    "userRole": "STREAMER",
+    "permissions": [
+      "VIDEO_DELETE",
+      "VIDEO_HIDE",
+      "LIVE_CREATE",
+      "CHANNEL_MANAGE",
+      "CHAT_MANAGE",
+      "CHAT_BLIND",
+      "SETTLEMENT_MANAGE",
+      "PAID_WATCH_PARTY_SOURCE_PLAY"
+    ],
+    "following": null,
+    "cheatKey": false,
+    "restriction": {
+      "restrict": false,
+      "origin": false,
+      "restrictReleaseState": "NONE",
+      "judgment": null,
+      "availableReleaseRequestDate": null,
+      "restrictUserNickname": null,
+      "fromDate": null,
+      "toDate": null
+    },
+    "privateUserBlock": false,
+    "subscription": {
+      "subscribing": false,
+      "subscriptionDeferred": false,
+      "subscriptionAlertNotified": false,
+      "subscriptionAlertRefused": false,
+      "subscriptionDisabled": true,
+      "subscriptionExpireNotifyRequired": false,
+      "subscriptionGift": false
+    },
+    "playerAdFlag": {
+      "preRoll": false,
+      "midRoll": false,
+      "postRoll": false
+    }
+  }
+}

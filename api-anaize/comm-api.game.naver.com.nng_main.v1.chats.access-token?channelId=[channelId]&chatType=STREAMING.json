@@ -1,0 +1,16 @@
+{
+  "code": 200,
+  "message": null,
+  "content": {
+    "accessToken": "ocGxQG8+uApRgAtTN9Hr20QpFTP3pULMS/MKuBggWGwSEKUMYYWUQkbZshCkd/zJR818nQXrP0HLgYsCew/LCQ==",
+    "temporaryRestrict": {
+      "temporaryRestrict": false,
+      "times": 0,
+      "duration": null,
+      "createdTime": null
+    },
+    "realNameAuth": true,
+    "extraToken": "PQjPT5LPphq+fSviE3g0w/qyzKSZP4G89hm96SHBioejTNM8mr/mNBdRMpRPak4Xa0oI2PZ93rExjDG0RLjHiw==",
+    "chatTime": null
+  }
+}

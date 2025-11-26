@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "message": null,
+  "content": {
+    "channelId": "34bca588e940bb3572e67fc4487c8666",
+    "channelName": "성실한 도사 10048332",
+    "channelImageUrl": "",
+    "verifiedMark": false,
+    "channelType": "STREAMING",
+    "channelDescription": "1234",
+    "followerCount": 1,
+    "openLive": false,
+    "subscriptionAvailability": false,
+    "subscriptionPaymentAvailability": {
+      "iapAvailability": false,
+      "iabAvailability": false
+    },
+    "adMonetizationAvailability": false,
+    "activatedChannelBadgeIds": [],
+    "paidProductSaleAllowed": false
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "message": null,
+  "content": {
+    "topics": [
+      {
+        "mainTopic": {
+          "id": "HOME",
+          "name": "홈"
+        },
+        "subTopics": [
+          {
+            "id": "HOME",
+            "name": "홈"
+          }
+        ],
+        "textBubbles": []
+      },
+      {
+        "mainTopic": {
+          "id": "GAME",
+          "name": "게임"
+        },
+        "subTopics": [
+          {
+            "id": "HOME",
+            "name": "홈"
+          }
+        ],
+        "textBubbles": ["치지직컵"]
+      },
+      {
+        "mainTopic": {
+          "id": "ESPORTS",
+          "name": "e스포츠"
+        },
+        "subTopics": [
+          {
+            "id": "League_of_Legends",
+            "name": "LoL"
+          },
+          {
+            "id": "Valorant",
+            "name": "발로란트"
+          },
+          {
+            "id": "Player_Unknowns_Battle_Grounds",
+            "name": "PUBG"
+          },
+          {
+            "id": "OVERWATCH",
+            "name": "오버워치"
+          },
+          {
+            "id": "general",
+            "name": "일반"
+          }
+        ],
+        "textBubbles": []
+      },
+      {
+        "mainTopic": {
+          "id": "SPORTS",
+          "name": "스포츠"
+        },
+        "subTopics": [
+          {
+            "id": "HOME",
+            "name": "홈"
+          }
+        ],
+        "textBubbles": []
+      },
+      {
+        "mainTopic": {
+          "id": "ENTERPLUS",
+          "name": "엔터+"
+        },
+        "subTopics": [
+          {
+            "id": "HOME",
+            "name": "홈"
+          }
+        ],
+        "textBubbles": []
+      }
+    ]
+  }
+}
