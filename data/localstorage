@@ -1,0 +1,9 @@
+glad_loader_policy_info	{"regDate":"2025-11-26T14:22:48.347Z","data":{"versionInfo":{"policyVersion":"251119.00","loaderVersion":"1.6.0","sdkVersion":"3.6.0"},"sdkInfo":{"latestRatio":1,"config":{}},"sentryInfo":{"enableSentry":false,"config":{"sampleRate":0.001}}}}	
+live-player-video-track	{"label":"360p","width":640,"height":360}	
+liveSortType	"POPULAR"	
+player-volume	{"value":0.74}	
+player-volume-muted	true	
+recent_keyword	["장마군"]	
+sessionServerRoutingResult-game-real	{"sessionServerList":["kr-ss1.chat.naver.com","kr-ss2.chat.naver.com","kr-ss3.chat.naver.com","kr-ss4.chat.naver.com","kr-ss5.chat.naver.com"],"proxyServerList":["kr-ss1.chat.naver.com","kr-ss2.chat.naver.com","kr-ss3.chat.naver.com","kr-ss4.chat.naver.com","kr-ss5.chat.naver.com"],"expireTime":86400,"expire":1764253367837}	
+userStatus.idhash	ca8fa7628ea218b6d63f1aba3293f4e8	
+user_access	{"userIdHash":"ca8fa7628ea218b6d63f1aba3293f4e8","expiresAt":"2025-11-27T14:59:59.999Z"}	
