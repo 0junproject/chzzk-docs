@@ -3,9 +3,21 @@
     "message": null,
     "content": {
         "page": 0,
-        "size": 0,
-        "totalCount": 0,
-        "totalPages": 0,
-        "data": []
+        "size": 50,
+        "totalCount": 1,
+        "totalPages": 1,
+        "data": [
+            {
+                "seq": 448141,
+                "userIdHash": "d7cd8e5b5b1c2a0a762a9088defb3a72",
+                "nickname": "AAA",
+                "executeNickname": "성실한 도사 10048332",
+                "memo": "test",
+                "createdDate": "2025-12-02 12:57:08",
+                "releaseDate": "2025-12-03 12:57:08",
+                "profileImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAxMDdfMjc2/MDAxNzA0NjM2ODM2Mzkz.VItc2PBeZmfWdrzMAqPF868gUdSHu72EevKu1r5EieAg.0U6wffJTvMSfqhlh0dN1rI9NBUnEjwTsXDzFzVe6V7sg.JPEG/5fb93a039a6dabbccd8dee48da29df99.jpeg",
+                "verifiedMark": false
+            }
+        ]
     }
 }
